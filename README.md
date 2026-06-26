@@ -25,23 +25,17 @@ A simple console-based calculator application developed using **C#** and **.NET*
 - Basic Error Handling
 
 ## Project Structure
-```
 calculator/
 ├── Program.cs
 ├── calculator.csproj
 └── README.md
-```
-
-```
 
 ## Sample Output
-
-```
 Enter the first number: 20
 Enter the second number: 5
 Enter an operator (+, -, *, /): *
 
 20 * 5 = 100
-```
+
 ## Learning Outcome
 This project helped me understand the fundamentals of C# and the .NET platform, including console application development, user input handling, type conversion, control statements, and basic arithmetic operations.
