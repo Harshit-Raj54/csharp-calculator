@@ -43,6 +43,5 @@ Enter an operator (+, -, *, /): *
 
 20 * 5 = 100
 ```
-
 ## Learning Outcome
 This project helped me understand the fundamentals of C# and the .NET platform, including console application development, user input handling, type conversion, control statements, and basic arithmetic operations.
