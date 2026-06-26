@@ -25,10 +25,12 @@ A simple console-based calculator application developed using **C#** and **.NET*
 - Basic Error Handling
 
 ## Project Structure
+```text
 calculator/
 ├── Program.cs
 ├── calculator.csproj
 └── README.md
+```
 
 ## Sample Output
 Enter the first number: 20
